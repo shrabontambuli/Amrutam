@@ -100,7 +100,7 @@ const Experts = () => {
                         </Link>
                     </div>
                 </div>
-            </Carousel>;
+            </Carousel>
             <div className="w-52 mx-auto mt-10">
                 <h1 className="text-[#3A643B] rounded-lg font-medium flex justify-center items-center bg2 p-4">Find more experts <img className="ms-2" src="/icons/chevron-right.png" alt="" /></h1>
             </div>
