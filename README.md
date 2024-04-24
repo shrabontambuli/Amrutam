@@ -6,10 +6,13 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Amrutam
 
+# Amrutam
 # Live Link:   https://amrutam-zeta.vercel.app/
 
+# Amrutam-Find Doctors
+# Repo: [https://github.com/shrabontambuli/Amrutam-Find-Doctor2](https://github.com/shrabontambuli/Amrutam-Find-Doctor)
+# Live Link: [ https://amrutam-find-doctor2.vercel.app/](https://amrutam-find-doctor.vercel.app/)
 
 # Amrutam-Find Doctors2
 # Repo: https://github.com/shrabontambuli/Amrutam-Find-Doctor2
